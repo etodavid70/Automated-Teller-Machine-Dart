@@ -1,2 +1,2 @@
 # Automated-Teller-Machine-Dart
-ATM program with Dary
+ATM program with Dart Programming Language 
